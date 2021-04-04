@@ -2,6 +2,8 @@
 
 Just try out the git thing and enjoy gitting!
 
+First markdwon text here
+
 Here is a cute dolphin:
 
 ![A cute dolphi](cute-dolphin.jpeg)
